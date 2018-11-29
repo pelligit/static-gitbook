@@ -7,7 +7,7 @@
 ```bash
 $ git clone https://github.com/pelligit/static-gitbook.git
 
-$ cd static-gitbook & npm install
+$ cd static-gitbook && npm install
 
 # 开启本地服务器
 $ npm start
